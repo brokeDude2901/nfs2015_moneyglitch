@@ -12,9 +12,11 @@ Basically it launch the game, sell all the parts, close the game and repeat the 
 - Unclaimed all M3 GTR 15 Parts (need to do this once): sell your M3 GTR and rebuy it
 - Game is set to 1600x900 Windowed Mode
 
-## Installation:
+## Usage:
 - Install Python3.10 from Microsoft Store
 - Download this repo, extract it and run start.bat
+- Leave your computer as is and go do something else
+- Come back in 2-3 hours and see results
 
 ## To do:
 - Add EA Origin support
