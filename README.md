@@ -7,9 +7,9 @@ Basically it launch the game, sell all the parts, close the game and repeat the 
 
 
 ## Requirements:
-- Deluxe Edition
+- Deluxe Edition (Steam)
 - M3 GTR as your selected car
-- Unclaimed all M3 GTR Parts (need to do this once): sell your M3 GTR and rebuy it
+- Unclaimed all M3 GTR 15 Parts (need to do this once): sell your M3 GTR and rebuy it
 - Game is set to 1600x900 Windowed Mode
 
 ## Installation:
