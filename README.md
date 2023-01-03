@@ -13,6 +13,7 @@ Basically it launch the game, sell all the parts, close the game and repeat the 
 - Game is set to 1600x900 Windowed Mode
 
 ## Usage:
+- Make sure you already have all the 15 parts and M3 GTR selected as main car, then exit the game completely
 - Install Python3.10 from Microsoft Store
 - Download this repo, extract it and run start.bat
 - Leave your computer as is and go do something else, come back in 2-3 hours and see results
