@@ -3,12 +3,8 @@
 import warnings, cv2, time, sys, pyautogui, traceback
 from time import sleep, perf_counter
 warnings.filterwarnings("ignore")
-#import pyperclip
-#import win32clipboard
-#import subprocess
 import os
 import pydirectinput
-
 
 def locate_and_click_once(_image_path_):
   #print(_image_path_)
@@ -97,7 +93,7 @@ if __name__=='__main__':
     from elevate import elevate
     elevate()
     pyautogui.FAILSAFE = False
-    for _ in range(3):
+    while True:
       launch_nfs_steam()
       wait_for_login_screen()
       wait_for_play_screen()
