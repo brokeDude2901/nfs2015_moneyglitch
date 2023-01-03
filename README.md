@@ -1,7 +1,8 @@
 # nfs2015_moneyglitch
 Need For Speed 2015 Money Glitch Automation with Pyautogui / Pydirectinput
 
-![00034](https://user-images.githubusercontent.com/46110534/210344136-f685bdc4-3025-4e0e-8342-f4eaafc8e07a.png)
+(https://www.youtube.com/watch?v=bZZulDzSNc0)
+
 
 # Requirements:
 - Deluxe Edition
