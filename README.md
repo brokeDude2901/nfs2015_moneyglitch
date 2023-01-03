@@ -8,12 +8,12 @@ Basically it launch the game, sell all the parts, close the game and repeat the 
 
 ## Requirements:
 - Deluxe Edition (Steam)
-- M3 GTR as your main car
-- Unclaimed all M3 GTR 15 Parts (need to do this once): just sell your M3 GTR and rebuy it
+- M3 E46 Deluxe as your main car
+- Unclaimed all M3 E46 Deluxe 15 Parts (need to do this once): just sell and rebuy it
 - Game is set to 1600x900 Windowed Mode
 
 ## Usage:
-- Make sure you already have all the 15 parts, M3 GTR selected as main car, game is running in windowed mode 1600x900 then exit the game completely
+- Make sure you already have all the 15 parts, M3 E46 Deluxe selected as main car, game is running in windowed mode 1600x900 then exit the game completely
 - Install Python3.10 from Microsoft Store
 - Download this repo as ZIP archive, extract it to anywhere and run start.bat
 - Leave your computer as is and go do something else, come back in 2-3 hours and see results
